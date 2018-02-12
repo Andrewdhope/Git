@@ -1,0 +1,23 @@
+INIT and CLONE:
+
+> If you initialize in GitHub with a README, then you'll need to clone it, not initialize locally and push it
+
+FETCH, MERGE, and PULL:
+	git fetch origin
+
+> Pull is just fetch plus merge in one step
+	
+PUSH:
+	git push <remote> <branch>
+	
+> default remote is origin and default branch is master
+> use -n to execute as a dry-run
+
+REMOTE:
+	git remote add <name> <url>
+	
+> when you clone a repo, it automatically creates a remote called origin
+> -v to view remotes
+
+COMMIT:
+	git commit -m "comment"
