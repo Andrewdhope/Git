@@ -1,8 +1,8 @@
 # Primary References
 
-(https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf "GitHub Cheatsheet")  
-(https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf "Markdown Cheatsheet  
+[GitHub Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf "GitHub Cheatsheet")  
+[Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf "Markdown Cheatsheet")  
 
-(https://git-scm.com/docs "Git Reference Guide")  
-(https://guides.github.com/ "GitHub Guides")
-(https://help.github.com/categories/gists/ "About Gists")  
+[Git Reference Guide](https://git-scm.com/docs "Git Reference Guide")  
+[GitHub Guides](https://guides.github.com/ "GitHub Guides")  
+[About Gists](https://help.github.com/categories/gists/ "About Gists")  
