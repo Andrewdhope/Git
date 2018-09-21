@@ -21,3 +21,6 @@ REMOTE:
 
 COMMIT:
 	git commit -m "comment"
+
+RESET:
+	undo add. remove file from staging while keeping it in your working directory.
